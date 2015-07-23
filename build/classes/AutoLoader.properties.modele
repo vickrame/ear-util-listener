@@ -1,0 +1,7 @@
+# proprietes de AutoLoader
+FileClass = @serveur.ear.configuration.appinf.path@/ListeClasses.txt
+FileTrace = @chopin.logs.path@/AutoLoader.log
+# niveau de trace :
+#    0 = limite aux problemes et compte rendu
+#    1 = detail de chaque traitement
+LevelTrace = 0
